@@ -4,7 +4,7 @@ ___
 ## Abstract
 ___
 The idea of this project was to make a game consisting of two small robots to play with each other.Both robots were loaded with 5 table tennis balls each . Both robots were placed on a table in their respective playing zones.Both were manually controlled via USB remote controller.Each player fire balls from their robot to the opponent's robot.The player with more hits on the opponent wins the game.
-![alt](model.jpg)
+![Model](Images/model.jpg)
 ___
 ## Team Members
 1. Kartik Chimpa
@@ -43,6 +43,6 @@ Balls were loaded in a cylinder like structure above the hitting arm.Cylinder ha
 * This can be of great use to Military services if we are able to detect the trajectory of missiles from the other side , hence the location of attacker and fire automatically from our side.
 ## Some Photos From Shristi 2018
 * Our Team Members
-![alt](team.jpg)
+![](Images/team.jpg)
 * One with our Secretaries
-![alt](sec.jpg)
+![](Images/sec.jpg)
