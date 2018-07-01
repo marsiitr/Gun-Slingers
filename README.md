@@ -7,15 +7,15 @@ The idea of this project was to make a game consisting of two small robots to pl
 ![Model](Images/model.jpg)
 ___
 ## Team Members
-1. Kartik Chimpa
-2. Satyansh Rai
-3. Prakhar Mishra
-4. Pratikesh Thakur
-5. Sourabh Patil
-6. Vibhore Verma
-7. Abhishek Mishra
-8. Navin Chandra Rai
-9. Vipul Goel
+1. Abhishek Mishra
+2. Kartik Chimpa
+3. Navin Chandra Rai
+4. Prakhar Mishra
+5. Pratikesh Thakur
+6. Satyansh Rai
+7. Sourabh Patil
+8. Vipul Goel
+9. Vibhore Verma
 ___
 ## Mentors
 1. Prashant Kumar
