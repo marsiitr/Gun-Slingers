@@ -1,11 +1,8 @@
 # Gun-Slingers
 _A Fun Event_
-___
 ## Abstract
-___
 The idea of this project was to make a game consisting of two small robots to play with each other.Both robots were loaded with 5 table tennis balls each . Both robots were placed on a table in their respective playing zones.Both were manually controlled via USB remote controller.Each player fire balls from their robot to the opponent's robot.The player with more hits on the opponent wins the game.
 ![Model](Images/model.jpg)
-___
 ## Team Members
 1. Abhishek Mishra
 2. Kartik Chimpa
@@ -16,19 +13,20 @@ ___
 7. Sourabh Patil
 8. Vipul Goel
 9. Vibhore Verma
-___
+
 ## Mentors
-1. Prashant Kumar
-2. Uttkarsh Deepak
-3. Aman Verma
-___
+1. Aman Verma 
+2. Prashant Kumar
+3. Uttkarsh Deepak
+ 
+
 ## Electronic Components Used
 * Arduino Mega ADK
 * DC Motors
 * 10 Amp Motor Drivers
 * USB Control Remote
 * IR Sensor
-___
+
 ## Mechanichal Design
 There were two parts of Mechanichal design:-
 1. Diffrential Drive:- For Motion of the robot.
